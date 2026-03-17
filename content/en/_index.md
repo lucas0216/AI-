@@ -36,12 +36,12 @@ Hexi 2077's AI News Hub
 
 {{< cards cols="3" >}}
 <!-- LATEST_6_CARDS_START -->
-{{< card link="/en/2026-03/2026-03-16" title="AI News Daily 2026/03/16" subtitle="Microsoft, NVIDIA, OpenAI Release New Products Simultaneously; Billion-Dollar" icon="calendar" >}}
+{{< card link="/en/2026-03/2026-03-17" title="AI News Daily 2026/03/17" subtitle="NVIDIA launches GB300 desktop supercomputer, 748GB memory capable of" icon="calendar" >}}
+  {{< card link="/en/2026-03/2026-03-16" title="AI News Daily 2026/03/16" subtitle="Microsoft, NVIDIA, OpenAI Release New Products Simultaneously; Billion-Dollar" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-15" title="AI News Daily 2026/03/15" subtitle="Claude's million-token context fully open, supporting 600 images. 360" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-14" title="AI News Daily 2026/03/14" subtitle="Gemini mobile automates cross-app tasks, Claude plugins enable cross-application" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-13" title="AI News Daily 2026/03/13" subtitle="Aishi Technology announces C-round funding and PixVerse R1; Tencent E'xia" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-12" title="AI News Daily 2026/03/12" subtitle="Replit Agent 4 Launches, Valuation Soars to $9 Billion; Perplexity Unveils" icon="calendar" >}}
-  {{< card link="/en/2026-03/2026-03-11" title="AI News Daily 2026/03/11" subtitle="NVIDIA invests $50 billion in Thinking Machines, LeCun founds AMI with" icon="calendar" >}}
 <!-- LATEST_6_CARDS_END -->
 {{< /cards >}}
 
@@ -50,10 +50,10 @@ Hexi 2077's AI News Hub
 {{% steps %}}
 
 ### 1. Build a Big-Picture View
-The [AI Weekly](/en/blog/weekly/) is your ideal starting point for newcomers! It's designed to help you quickly grasp crucial industry shifts, preventing you from getting lost in fragmented information. Let's get you up to speed!
+The [AI Weekly](/en/blog/weekly/) is your ideal starting point for newcomers! It's designed to help you quickly grasp crucial industry shifts and avoid getting lost in fragmented information. Get ready to speed up your learning!
 
 ### 2. Stay in Daily Sync
-The [AI Daily Archive](/en/2026-03/2026-03-16) is your go-to for staying on the cutting edge! Just 5 minutes a day will keep you perfectly aligned with the global AI pulse. Stay sharp! ⚡
+The [AI Daily Archive](/en/2026-03/2026-03-17) is your go-to for staying on the cutting edge! Just 5 minutes a day will keep you perfectly aligned with the global AI pulse. Stay sharp! ⚡
 
 ### 3. Explore Deeper Practice
 The [Blog](/en/blog/) is where you should dive in for deeper practice! It offers structured guides on AI tools, workflows, and boosting your productivity. Unleash your inner tech wizard! ✨
