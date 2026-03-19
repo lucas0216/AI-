@@ -4,22 +4,24 @@ type: about
 sidebar:
   exclude: true
 ---
-#### 👋 He Xi 2077 / justlovemaki
 
-After a decade of code, with fingers growing cold and frustrations still simmering, I caught the thunderous roar of the intelligent revolution. Now, I'm all in to conquer new digital frontiers!
+#### 👋 何夕2077 / justlovemaki
 
-#### 🚀 My Code Philosophy
+> 十载代码指尖凉，胸中块垒郁未扬。
+> 忽闻智能风雷动，誓向云天搏一场。
 
-Tech for the people!
+#### 🚀 我的代码哲学
 
-#### 🔥 My Best Hits
+> 技术为人民服务
 
-*   **[Open Source Contribution / AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)**:
-    AIClient-2-API? This bad boy's a powerhouse API proxy service! It wraps client-only LLM capabilities from tools like Gemini CLI, Antigravity, Qwen Code, and Kiro into local OpenAI-compatible interfaces. Plus, it's fully loaded with account pool management, smart polling, auto-failover, and system prompt control.
-*   **[Open Source Contribution / OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)**:
-    Check out OpenClaw-Docker-CN-IM! This is a slick Docker image, pre-packed and configured with plugins for all the big-name Chinese IM platforms – think Feishu, DingTalk, QQ Bot, and WeChat Work. It lets you quickly deploy a multi-platform AI robot gateway, no sweat!
-*   Wanna see more cool stuff? Peep my [GitHub](https://github.com/justlovemaki)!
+#### ✨ 代表作
 
-#### 🌱 What I'm Digging Into Now
+*   **[开源贡献/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)**:
+    *   一个强大的 API 代理服务，可将 Gemini CLI、Antigravity、Qwen Code、Kiro 等仅限客户端使用的大模型能力，封装为本地 OpenAI 兼容接口，并支持账号池管理、智能轮询、自动故障转移与系统提示词管理。
+*   **[开源贡献/OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)**:
+    *   OpenClaw 中国 IM 插件整合版 Docker 镜像，预装并配置飞书、钉钉、QQ 机器人、企业微信等主流中国 IM 平台插件，可快速部署支持多平台的 AI 机器人网关。
+*   更多项目细节请见我的 [GitHub](https://github.com/justlovemaki)。
 
-Currently, I'm super into LLM applications and website SEO, diving deep into learning and putting things into practice.
+#### 🌱 当前探索
+
+对 LLM应用、网站SEO 抱有浓厚兴趣，并正在积极投入学习与实践。
